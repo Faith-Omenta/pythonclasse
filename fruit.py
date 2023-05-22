@@ -11,11 +11,11 @@ class Fruit():
         self.quality=quality
         self.price=price
 
-    def to_eat():
-        return f"The name of my fruit is an {self.name}"
+    def to_rot():
+        return f"The {self.name} has rotten"
     
     def to_ripe():
-        return f"The price of an Apple is {self.price}"
+        return f"The price of a ripe banana is {self.price}"
 
     def quality_texture():
         return f"what is {self.quality} of your fruit"
